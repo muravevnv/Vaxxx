@@ -1,0 +1,23 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+
+ul,
+li {
+   list-style: none;
+   motion: 0;
+   padding: 0;
+}
+
+.container {
+    width: 1344px;
+    margin: 0 auto;
+}
